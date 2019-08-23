@@ -10,7 +10,7 @@ Created a shell kernel that would read and perform simple terminal commands
 - mv [file] [file]
 
 #### How to start:
-1 make
-2 use any of the listed commands
-3 quit/ctl c
-4 make cleanall
+1. make
+2. use any of the listed commands
+3. quit/ctl c
+4. make cleanall
